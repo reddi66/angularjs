@@ -1,1 +1,1 @@
-angular js is a javascript framwork used to build SPA.
+This is a new test file as a text format.
